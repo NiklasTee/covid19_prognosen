@@ -1,0 +1,402 @@
+IdLandkreis;Landkreis;Bundesland;IstStadt;Fläche_qkm;Bevölkerung
+1001;Flensburg;Schleswig-Holstein;True;53.02;90164
+1002;Kiel;Schleswig-Holstein;True;118.65;246794
+1003;Lübeck;Schleswig-Holstein;True;214.19;216530
+1004;Neumünster;Schleswig-Holstein;True;71.66;80196
+1051;Dithmarschen;Schleswig-Holstein;False;1428.17;133193
+1053;Herzogtum Lauenburg;Schleswig-Holstein;False;1263.07;198019
+1054;Nordfriesland;Schleswig-Holstein;False;2083.55;165951
+1055;Ostholstein;Schleswig-Holstein;False;1393.02;200539
+1056;Pinneberg;Schleswig-Holstein;False;664.25;316103
+1057;Plön;Schleswig-Holstein;False;1083.56;128686
+1058;Rendsburg-Eckernförde;Schleswig-Holstein;False;2189.79;274098
+1059;Schleswig-Flensburg;Schleswig-Holstein;False;2071.28;201156
+1060;Segeberg;Schleswig-Holstein;False;1344.47;277175
+1061;Steinburg;Schleswig-Holstein;False;1055.7;131013
+1062;Stormarn;Schleswig-Holstein;False;766.17;244156
+2000;Hamburg;Hamburg;True;755.09;1847253
+3101;Braunschweig;Niedersachsen;True;192.7;249406
+3102;Salzgitter;Niedersachsen;True;224.49;104291
+3103;Wolfsburg;Niedersachsen;True;204.61;124371
+3151;Gifhorn;Niedersachsen;False;1567.55;176523
+3153;Goslar;Niedersachsen;False;966.72;136292
+3154;Helmstedt;Niedersachsen;False;676.15;91297
+3155;Northeim;Niedersachsen;False;1268.76;132285
+3157;Peine;Niedersachsen;False;536.5;134801
+3158;Wolfenbüttel;Niedersachsen;False;724.3;119622
+3159;Göttingen;Niedersachsen;False;1755.42;326041
+3241;ion Hannover;Niedersachsen;False;2297.13;1157115
+3251;Diepholz;Niedersachsen;False;1991.01;217089
+3252;Hameln-Pyrmont;Niedersachsen;False;797.54;148549
+3254;Hildesheim;Niedersachsen;False;1208.34;275817
+3255;Holzminden;Niedersachsen;False;694.27;70458
+3256;Nienburg (Weser);Niedersachsen;False;1400.82;121390
+3257;Schaumburg;Niedersachsen;False;675.67;157820
+3351;Celle;Niedersachsen;False;1550.82;179011
+3352;Cuxhaven;Niedersachsen;False;2058.96;198038
+3353;Harburg;Niedersachsen;False;1248.45;254431
+3354;Lüchow-Dannenberg;Niedersachsen;False;1227.33;48412
+3355;Lüneburg;Niedersachsen;False;1327.8;184139
+3356;Osterholz;Niedersachsen;False;652.67;113928
+3357;Rotenburg (Wümme);Niedersachsen;False;2074.78;163782
+3358;Heidekreis;Niedersachsen;False;1881.45;140673
+3359;Stade;Niedersachsen;False;1267.38;204512
+3360;Uelzen;Niedersachsen;False;1462.59;92389
+3361;Verden;Niedersachsen;False;789.33;137133
+3401;Delmenhorst;Niedersachsen;True;62.45;77559
+3402;Emden;Niedersachsen;True;112.34;49913
+3403;Oldenburg;Niedersachsen;True;103.09;169077
+3404;Osnabrück;Niedersachsen;True;119.8;165251
+3405;Wilhelmshaven;Niedersachsen;True;107.07;76089
+3451;Ammerland;Niedersachsen;False;730.64;124859
+3452;Aurich;Niedersachsen;False;1287.35;189694
+3453;Cloppenburg;Niedersachsen;False;1420.34;170682
+3454;Emsland;Niedersachsen;False;2883.67;326954
+3455;Friesland;Niedersachsen;False;609.53;98704
+3456;Grafschaft Bentheim;Niedersachsen;False;981.79;137162
+3457;Leer;Niedersachsen;False;1085.72;170756
+3458;Oldenburg;Niedersachsen;False;1064.83;130890
+3459;Osnabrück;Niedersachsen;False;2121.81;358080
+3460;Vechta;Niedersachsen;False;814.2;142814
+3461;Wesermarsch;Niedersachsen;False;824.78;88583
+3462;Wittmund;Niedersachsen;False;656.86;56926
+4011;Bremen;Bremen;True;317.84;567559
+4012;Bremerhaven;Bremen;True;101.53;113643
+5111;Düsseldorf;Nordrhein-Westfalen;True;217.41;621877
+5112;Duisburg;Nordrhein-Westfalen;True;232.8;498686
+5113;Essen;Nordrhein-Westfalen;True;210.34;582760
+5114;Krefeld;Nordrhein-Westfalen;True;137.78;227417
+5116;Mönchengladbach;Nordrhein-Westfalen;True;170.47;261034
+5117;Mülheim a.d.Ruhr;Nordrhein-Westfalen;True;91.28;170632
+5119;Oberhausen;Nordrhein-Westfalen;True;77.09;210764
+5120;Remscheid;Nordrhein-Westfalen;True;74.52;111338
+5122;Solingen;Nordrhein-Westfalen;True;89.54;159245
+5124;Wuppertal;Nordrhein-Westfalen;True;168.39;355100
+5154;Kleve;Nordrhein-Westfalen;False;1232.99;312465
+5158;Mettmann;Nordrhein-Westfalen;False;407.22;485570
+5162;Rhein-Kreis Neuss;Nordrhein-Westfalen;False;576.42;451730
+5166;Viersen;Nordrhein-Westfalen;False;563.28;298863
+5170;Wesel;Nordrhein-Westfalen;False;1042.79;459976
+5314;Bonn;Nordrhein-Westfalen;True;141.06;329673
+5315;Köln;Nordrhein-Westfalen;True;405.01;1087863
+5316;Leverkusen;Nordrhein-Westfalen;True;78.87;163729
+5334;dtRegion Aachen;Nordrhein-Westfalen;False;706.91;557026
+5358;Düren;Nordrhein-Westfalen;False;941.49;264638
+5362;Rhein-Erft-Kreis;Nordrhein-Westfalen;False;704.71;470615
+5366;Euskirchen;Nordrhein-Westfalen;False;1248.73;193656
+5370;Heinsberg;Nordrhein-Westfalen;False;627.91;255555
+5374;Oberbergischer Kreis;Nordrhein-Westfalen;False;918.85;272057
+5378;Rheinisch-Bergischer Kreis;Nordrhein-Westfalen;False;437.32;283271
+5382;Rhein-Sieg-Kreis;Nordrhein-Westfalen;False;1153.21;600764
+5512;Bottrop;Nordrhein-Westfalen;True;100.61;117565
+5513;Gelsenkirchen;Nordrhein-Westfalen;True;104.94;259645
+5515;Münster;Nordrhein-Westfalen;True;303.28;315293
+5554;Borken;Nordrhein-Westfalen;False;1420.98;371339
+5558;Coesfeld;Nordrhein-Westfalen;False;1112.04;220586
+5562;Recklinghausen;Nordrhein-Westfalen;False;761.31;614137
+5566;Steinfurt;Nordrhein-Westfalen;False;1795.75;448220
+5570;Warendorf;Nordrhein-Westfalen;False;1319.42;277840
+5711;Bielefeld;Nordrhein-Westfalen;True;258.83;334195
+5754;Gütersloh;Nordrhein-Westfalen;False;969.21;364938
+5758;Herford;Nordrhein-Westfalen;False;450.4;250578
+5762;Höxter;Nordrhein-Westfalen;False;1201.42;140251
+5766;Lippe;Nordrhein-Westfalen;False;1246.22;347514
+5770;Minden-Lübbecke;Nordrhein-Westfalen;False;1152.41;310409
+5774;Paderborn;Nordrhein-Westfalen;False;1246.8;307839
+5911;Bochum;Nordrhein-Westfalen;True;145.66;365587
+5913;Dortmund;Nordrhein-Westfalen;True;280.71;588250
+5914;Hagen;Nordrhein-Westfalen;True;160.45;188686
+5915;Hamm;Nordrhein-Westfalen;True;226.44;179916
+5916;Herne;Nordrhein-Westfalen;True;51.42;156449
+5954;Ennepe-Ruhr-Kreis;Nordrhein-Westfalen;False;409.64;324106
+5958;Hochsauerlandkreis;Nordrhein-Westfalen;False;1960.17;259777
+5962;Märkischer Kreis;Nordrhein-Westfalen;False;1061.07;410222
+5966;Olpe;Nordrhein-Westfalen;False;712.14;133955
+5970;Siegen-Wittgenstein;Nordrhein-Westfalen;False;1132.89;276944
+5974;Soest;Nordrhein-Westfalen;False;1328.63;301785
+5978;Unna;Nordrhein-Westfalen;False;543.21;394891
+6411;Darmstadt;Hessen;True;122.07;159878
+6412;Frankfurt am Main;Hessen;True;248.31;763380
+6413;Offenbach;Hessen;True;44.88;130280
+6414;Wiesbaden;Hessen;True;203.87;278474
+6431;Bergstraße;Hessen;False;719.47;270340
+6432;Darmstadt-Dieburg;Hessen;False;658.64;297844
+6433;Groß-Gerau;Hessen;False;453.03;275726
+6434;Hochtaunuskreis;Hessen;False;481.84;236914
+6435;Main-Kinzig-Kreis;Hessen;False;1397.32;420552
+6436;Main-Taunus-Kreis;Hessen;False;222.53;238558
+6437;Odenwaldkreis;Hessen;False;623.97;96703
+6438;Offenbach;Hessen;False;356.24;355813
+6439;Rheingau-Taunus-Kreis;Hessen;False;811.41;187160
+6440;Wetteraukreis;Hessen;False;1100.66;308339
+6531;Gießen;Hessen;False;854.56;270688
+6532;Lahn-Dill-Kreis;Hessen;False;1066.3;253319
+6533;Limburg-Weilburg;Hessen;False;738.44;171912
+6534;Marburg-Biedenkopf;Hessen;False;1262.37;247084
+6535;Vogelsbergkreis;Hessen;False;1458.91;105643
+6611;Kassel;Hessen;True;106.8;202137
+6631;Fulda;Hessen;False;1380.41;223145
+6632;Hersfeld-Rotenburg;Hessen;False;1097.75;120719
+6633;Kassel;Hessen;False;1293.31;236764
+6634;Schwalm-Eder-Kreis;Hessen;False;1539.01;179673
+6635;Waldeck-Frankenberg;Hessen;False;1848.7;156406
+6636;Werra-Meißner-Kreis;Hessen;False;1024.83;100629
+7111;Koblenz;Rheinland-Pfalz;True;105.25;114052
+7131;Ahrweiler;Rheinland-Pfalz;False;787.02;130086
+7132;Altenkirchen;Rheinland-Pfalz;False;642.38;128805
+7133;Bad Kreuznach;Rheinland-Pfalz;False;863.89;158345
+7134;Birkenfeld;Rheinland-Pfalz;False;776.83;80951
+7135;Cochem-Zell;Rheinland-Pfalz;False;692.43;61375
+7137;Mayen-Koblenz;Rheinland-Pfalz;False;817.73;214434
+7138;Neuwied;Rheinland-Pfalz;False;627.05;182811
+7140;Rhein-Hunsrück-Kreis;Rheinland-Pfalz;False;991.06;103163
+7141;Rhein-Lahn-Kreis;Rheinland-Pfalz;False;782.24;122297
+7143;Westerwaldkreis;Rheinland-Pfalz;False;989.04;201904
+7211;Trier;Rheinland-Pfalz;True;117.06;111528
+7231;Bernkastel-Wittlich;Rheinland-Pfalz;False;1167.92;112483
+7232;Bitburg-Prüm;Rheinland-Pfalz;False;1626.95;99058
+7233;Vulkaneifel;Rheinland-Pfalz;False;911.64;60646
+7235;Trier-Saarburg;Rheinland-Pfalz;False;1102.26;149398
+7311;Frankenthal;Rheinland-Pfalz;True;43.88;48762
+7312;Kaiserslautern;Rheinland-Pfalz;True;139.7;100030
+7313;Landau i.d.Pfalz;Rheinland-Pfalz;True;82.94;46881
+7314;Ludwigshafen;Rheinland-Pfalz;True;77.43;172253
+7315;Mainz;Rheinland-Pfalz;True;97.73;218578
+7316;Neustadt a.d.Weinstraße;Rheinland-Pfalz;True;117.09;53264
+7317;Pirmasens;Rheinland-Pfalz;True;61.35;40231
+7318;Speyer;Rheinland-Pfalz;True;42.71;50561
+7319;Worms;Rheinland-Pfalz;True;108.73;83542
+7320;Zweibrücken;Rheinland-Pfalz;True;70.64;34193
+7331;Alzey-Worms;Rheinland-Pfalz;False;588.07;129687
+7332;Bad Dürkheim;Rheinland-Pfalz;False;594.64;132671
+7333;Donnersbergkreis;Rheinland-Pfalz;False;645.41;75325
+7334;Germersheim;Rheinland-Pfalz;False;463.32;129013
+7335;Kaiserslautern;Rheinland-Pfalz;False;640.0;105979
+7336;Kusel;Rheinland-Pfalz;False;573.61;70219
+7337;Südliche Weinstraße;Rheinland-Pfalz;False;639.93;110521
+7338;Rhein-Pfalz-Kreis;Rheinland-Pfalz;False;304.99;154609
+7339;Mainz-Bingen;Rheinland-Pfalz;False;605.36;211417
+7340;Südwestpfalz;Rheinland-Pfalz;False;953.53;94831
+8111;Stuttgart;Baden-Württemberg;True;207.33;635911
+8115;Böblingen;Baden-Württemberg;False;617.76;392807
+8116;Esslingen;Baden-Württemberg;False;641.28;535024
+8117;Göppingen;Baden-Württemberg;False;642.34;258145
+8118;Ludwigsburg;Baden-Württemberg;False;686.77;545423
+8119;Rems-Murr-Kreis;Baden-Württemberg;False;858.08;427248
+8121;Heilbronn;Baden-Württemberg;True;99.9;126592
+8125;Heilbronn;Baden-Württemberg;False;1099.91;344456
+8126;Hohenlohekreis;Baden-Württemberg;False;776.76;112655
+8127;Schwäbisch Hall;Baden-Württemberg;False;1484.07;196761
+8128;Main-Tauber-Kreis;Baden-Württemberg;False;1304.12;132399
+8135;Heidenheim;Baden-Württemberg;False;627.13;132777
+8136;Ostalbkreis;Baden-Württemberg;False;1511.39;314025
+8211;Baden-Baden;Baden-Württemberg;True;140.19;55185
+8212;Karlsruhe;Baden-Württemberg;True;173.42;312060
+8215;Karlsruhe;Baden-Württemberg;False;1084.98;445101
+8216;Rastatt;Baden-Württemberg;False;738.43;231420
+8221;Heidelberg;Baden-Württemberg;True;108.83;161485
+8222;Mannheim;Baden-Württemberg;True;144.97;310658
+8225;Neckar-Odenwald-Kreis;Baden-Württemberg;False;1125.95;143633
+8226;Rhein-Neckar-Kreis;Baden-Württemberg;False;1061.55;548355
+8231;Pforzheim;Baden-Württemberg;True;97.99;125957
+8235;Calw;Baden-Württemberg;False;797.29;159201
+8236;Enzkreis;Baden-Württemberg;False;573.6;199556
+8237;Freudenstadt;Baden-Württemberg;False;870.4;118243
+8311;Freiburg i.Breisgau;Baden-Württemberg;True;153.04;231195
+8315;Breisgau-Hochschwarzwald;Baden-Württemberg;False;1378.32;263601
+8316;Emmendingen;Baden-Württemberg;False;679.8;166408
+8317;Ortenaukreis;Baden-Württemberg;False;1860.29;430953
+8325;Rottweil;Baden-Württemberg;False;769.42;139878
+8326;Schwarzwald-Baar-Kreis;Baden-Württemberg;False;1025.34;212506
+8327;Tuttlingen;Baden-Württemberg;False;734.38;140766
+8335;Konstanz;Baden-Württemberg;False;817.98;286305
+8336;Lörrach;Baden-Württemberg;False;806.67;228736
+8337;Waldshut;Baden-Württemberg;False;1131.14;171003
+8415;Reutlingen;Baden-Württemberg;False;1092.48;287034
+8416;Tübingen;Baden-Württemberg;False;519.11;228678
+8417;Zollernalbkreis;Baden-Württemberg;False;917.58;189363
+8421;Ulm;Baden-Württemberg;True;118.68;126790
+8425;Alb-Donau-Kreis;Baden-Württemberg;False;1358.54;197076
+8426;Biberach;Baden-Württemberg;False;1409.52;201282
+8435;Bodenseekreis;Baden-Württemberg;False;664.77;217470
+8436;Ravensburg;Baden-Württemberg;False;1632.08;285424
+8437;Sigmaringen;Baden-Württemberg;False;1204.23;130849
+9161;Ingolstadt;Bayern;True;133.35;137392
+9162;München;Bayern;True;310.7;1484226
+9163;Rosenheim;Bayern;True;37.22;63551
+9171;Altötting;Bayern;False;569.28;111516
+9172;Berchtesgadener Land;Bayern;False;839.82;105929
+9173;Bad Tölz-Wolfratshausen;Bayern;False;1110.67;127917
+9174;Dachau;Bayern;False;579.16;154899
+9175;Ebersberg;Bayern;False;549.39;143649
+9176;Eichstätt;Bayern;False;1213.85;132881
+9177;Erding;Bayern;False;870.74;138182
+9178;Freising;Bayern;False;799.85;180007
+9179;Fürstenfeldbruck;Bayern;False;434.8;219311
+9180;Garmisch-Partenkirchen;Bayern;False;1012.17;88424
+9181;Landsberg a.Lech;Bayern;False;804.36;120302
+9182;Miesbach;Bayern;False;866.21;100010
+9183;Mühldorf a.Inn;Bayern;False;805.33;115872
+9184;München;Bayern;False;664.25;350473
+9185;Neuburg-Schrobenhausen;Bayern;False;739.71;97303
+9186;Pfaffenhofen a.d.Ilm;Bayern;False;761.05;128227
+9187;Rosenheim;Bayern;False;1439.44;261330
+9188;Starnberg;Bayern;False;487.71;136667
+9189;Traunstein;Bayern;False;1533.76;177319
+9190;Weilheim-Schongau;Bayern;False;966.28;135478
+9261;Landshut;Bayern;True;65.83;73411
+9262;Passau;Bayern;True;69.56;52803
+9263;Straubing;Bayern;True;67.59;47791
+9271;Deggendorf;Bayern;False;861.17;119478
+9272;Freyung-Grafenau;Bayern;False;983.85;78362
+9273;Kelheim;Bayern;False;1065.13;123058
+9274;Landshut;Bayern;False;1347.55;159895
+9275;Passau;Bayern;False;1530.09;192656
+9276;Regen;Bayern;False;974.78;77410
+9277;Rottal-Inn;Bayern;False;1281.2;121502
+9278;Straubing-Bogen;Bayern;False;1201.61;101120
+9279;Dingolfing-Landau;Bayern;False;877.58;96683
+9361;Amberg;Bayern;True;50.13;42207
+9362;Regensburg;Bayern;True;80.86;153094
+9363;Weiden i.d.OPf.;Bayern;True;70.57;42743
+9371;Amberg-Sulzbach;Bayern;False;1255.86;103049
+9372;Cham;Bayern;False;1526.82;127998
+9373;Neumarkt i.d.OPf.;Bayern;False;1343.96;134573
+9374;Neustadt a.d.Waldnaab;Bayern;False;1427.69;94450
+9375;Regensburg;Bayern;False;1391.65;194070
+9376;Schwandorf;Bayern;False;1458.34;147872
+9377;Tirschenreuth;Bayern;False;1084.25;72046
+9461;Bamberg;Bayern;True;54.62;77373
+9462;Bayreuth;Bayern;True;66.89;74783
+9463;Coburg;Bayern;True;48.29;41072
+9464;Hof;Bayern;True;58.02;45825
+9471;Bamberg;Bayern;False;1167.79;147163
+9472;Bayreuth;Bayern;False;1273.62;103664
+9473;Coburg;Bayern;False;590.42;86747
+9474;Forchheim;Bayern;False;642.82;116203
+9475;Hof;Bayern;False;892.52;94801
+9476;Kronach;Bayern;False;651.49;66743
+9477;Kulmbach;Bayern;False;658.33;71566
+9478;Lichtenfels;Bayern;False;519.94;66776
+9479;Wunsiedel i.Fichtelgebirge;Bayern;False;606.37;72655
+9561;Ansbach;Bayern;True;99.91;41798
+9562;Erlangen;Bayern;True;76.96;112528
+9563;Fürth;Bayern;True;63.35;128497
+9564;Nürnberg;Bayern;True;186.45;518370
+9565;Schwabach;Bayern;True;40.8;40981
+9571;Ansbach;Bayern;False;1971.33;184591
+9572;Erlangen-Höchstadt;Bayern;False;564.55;137262
+9573;Fürth;Bayern;False;307.44;117853
+9574;Nürnberger Land;Bayern;False;799.52;170792
+9575;Neustadt a.d.Aisch-Bad Windsheim;Bayern;False;1267.44;101014
+9576;Roth;Bayern;False;895.16;126749
+9577;Weißenburg-Gunzenhausen;Bayern;False;970.78;94734
+9661;Aschaffenburg;Bayern;True;62.45;71002
+9662;Schweinfurt;Bayern;True;35.7;53426
+9663;Würzburg;Bayern;True;87.6;127934
+9671;Aschaffenburg;Bayern;False;698.9;174200
+9672;Bad Kissingen;Bayern;False;1136.9;103235
+9673;Rhön-Grabfeld;Bayern;False;1021.68;79635
+9674;Haßberge;Bayern;False;956.19;84384
+9675;Kitzingen;Bayern;False;684.14;91155
+9676;Miltenberg;Bayern;False;715.58;128743
+9677;Main-Spessart;Bayern;False;1321.2;126158
+9678;Schweinfurt;Bayern;False;841.39;115445
+9679;Würzburg;Bayern;False;968.35;162302
+9761;Augsburg;Bayern;True;146.86;296582
+9762;Kaufbeuren;Bayern;True;40.02;44398
+9763;Kempten;Bayern;True;63.28;69151
+9764;Memmingen;Bayern;True;70.11;44100
+9771;Aichach-Friedberg;Bayern;False;780.23;134655
+9772;Augsburg;Bayern;False;1070.63;253468
+9773;Dillingen a.d.Donau;Bayern;False;792.23;96562
+9774;Günzburg;Bayern;False;762.4;127027
+9775;Neu-Ulm;Bayern;False;515.84;175204
+9776;Lindau;Bayern;False;323.39;81981
+9777;Ostallgäu;Bayern;False;1394.43;141182
+9778;Unterallgäu;Bayern;False;1229.57;145341
+9779;Donau-Ries;Bayern;False;1274.58;133783
+9780;Oberallgäu;Bayern;False;1527.96;156008
+10041;Stadtverband Saarbrücken;Saarland;False;410.95;328714
+10042;Merzig-Wadern;Saarland;False;556.66;103243
+10043;Neunkirchen;Saarland;False;249.8;131408
+10044;Saarlouis;Saarland;False;459.35;194319
+10045;Saarpfalz-Kreis;Saarland;False;418.28;142196
+10046;Sankt Wendel;Saarland;False;476.07;87007
+11000;Berlin;Berlin;True;891.12;3669491
+12051;Brandenburg a.d.Havel;Brandenburg;True;229.72;72184
+12052;Cottbus;Brandenburg;True;165.62;99678
+12053;Frankfurt (Oder);Brandenburg;True;147.85;57751
+12054;Potsdam;Brandenburg;True;188.24;180334
+12060;Barnim;Brandenburg;False;1479.58;185244
+12061;Dahme-Spreewald;Brandenburg;False;2274.5;170791
+12062;Elbe-Elster;Brandenburg;False;1899.19;101827
+12063;Havelland;Brandenburg;False;1727.31;162996
+12064;Märkisch-Oderland;Brandenburg;False;2158.65;195751
+12065;Oberhavel;Brandenburg;False;1808.18;212914
+12066;Oberspreewald-Lausitz;Brandenburg;False;1223.48;109371
+12067;Oder-Spree;Brandenburg;False;2256.75;178803
+12068;Ostprignitz-Ruppin;Brandenburg;False;2526.56;98861
+12069;Potsdam-Mittelmark;Brandenburg;False;2592.02;216566
+12070;Prignitz;Brandenburg;False;2138.54;76158
+12071;Spree-Neiße;Brandenburg;False;1656.98;113720
+12072;Teltow-Fläming;Brandenburg;False;2104.21;169997
+12073;Uckermark;Brandenburg;False;3077.03;118947
+13003;Rostock;Mecklenburg-Vorpommern;True;181.36;209191
+13004;Schwerin;Mecklenburg-Vorpommern;True;130.52;95653
+13071;Mecklenburgische Seenplatte;Mecklenburg-Vorpommern;False;5495.6;258074
+13072;Rostock;Mecklenburg-Vorpommern;False;3431.29;215794
+13073;Vorpommern-Rügen;Mecklenburg-Vorpommern;False;3216.02;224702
+13074;Nordwestmecklenburg;Mecklenburg-Vorpommern;False;2127.08;157322
+13075;Vorpommern-Greifswald;Mecklenburg-Vorpommern;False;3945.56;235623
+13076;Ludwigslust-Parchim;Mecklenburg-Vorpommern;False;4766.78;211779
+14511;Chemnitz;Sachsen;True;221.05;246334
+14521;Erzgebirgskreis;Sachsen;False;1827.91;334948
+14522;Mittelsachsen;Sachsen;False;2116.85;304099
+14523;Vogtlandkreis;Sachsen;False;1412.42;225997
+14524;Zwickau;Sachsen;False;949.78;315002
+14612;Dresden;Sachsen;True;328.48;556780
+14625;Bautzen;Sachsen;False;2395.6;299758
+14626;Görlitz;Sachsen;False;2111.41;252725
+14627;Meißen;Sachsen;False;1454.59;241717
+14628;Sächsische Schweiz-Osterzgebirge;Sachsen;False;1654.19;245586
+14713;Leipzig;Sachsen;True;297.8;593145
+14729;Leipzig;Sachsen;False;1651.28;258139
+14730;Nordsachsen;Sachsen;False;2028.56;197741
+15001;Dessau-Roßlau;Sachsen-Anhalt;True;244.71;80103
+15002;Halle;Sachsen-Anhalt;True;135.03;238762
+15003;Magdeburg;Sachsen-Anhalt;True;201.01;237565
+15081;Altmarkkreis Salzwedel;Sachsen-Anhalt;False;2293.74;83173
+15082;Anhalt-Bitterfeld;Sachsen-Anhalt;False;1453.84;158486
+15083;Börde;Sachsen-Anhalt;False;2366.99;170923
+15084;Burgenlandkreis;Sachsen-Anhalt;False;1413.95;178846
+15085;Harz;Sachsen-Anhalt;False;2104.75;213310
+15086;Jerichower Land;Sachsen-Anhalt;False;1577.08;89589
+15087;Mansfeld-Südharz;Sachsen-Anhalt;False;1449.01;134942
+15088;Saalekreis;Sachsen-Anhalt;False;1434.01;183815
+15089;Salzlandkreis;Sachsen-Anhalt;False;1427.5;189125
+15090;Stendal;Sachsen-Anhalt;False;2424.11;111190
+15091;Wittenberg;Sachsen-Anhalt;False;1930.78;124953
+16051;Erfurt;Thüringen;True;269.91;213981
+16052;Gera;Thüringen;True;152.18;93125
+16053;Jena;Thüringen;True;114.77;111343
+16054;Suhl;Thüringen;True;141.62;36789
+16055;Weimar;Thüringen;True;84.48;65228
+16056;Eisenach;Thüringen;True;104.17;42250
+16061;Eichsfeld;Thüringen;False;943.07;100006
+16062;Nordhausen;Thüringen;False;713.9;83416
+16063;Wartburgkreis;Thüringen;False;1266.96;118974
+16064;Unstrut-Hainich-Kreis;Thüringen;False;979.68;102232
+16065;Kyffhäuserkreis;Thüringen;False;1037.91;74212
+16066;Schmalkalden-Meiningen;Thüringen;False;1251.21;124916
+16067;Gotha;Thüringen;False;936.08;134908
+16068;Sömmerda;Thüringen;False;806.85;69427
+16069;Hildburghausen;Thüringen;False;938.42;63197
+16070;Ilm-Kreis;Thüringen;False;805.12;106249
+16071;Weimarer Land;Thüringen;False;804.48;82156
+16072;Sonneberg;Thüringen;False;460.85;57717
+16073;Saalfeld-Rudolstadt;Thüringen;False;1008.79;103199
+16074;Saale-Holzland-Kreis;Thüringen;False;815.24;82950
+16075;Saale-Orla-Kreis;Thüringen;False;1151.3;80312
+16076;Greiz;Thüringen;False;845.98;97398
+16077;Altenburger Land;Thüringen;False;569.39;89393

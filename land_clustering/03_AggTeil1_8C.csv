@@ -1,0 +1,402 @@
+;id;Landkreis;Cluster
+0;1001;Flensburg, Stadt;1
+1;1002;Kiel, Landeshauptstadt;1
+2;1003;Lübeck, Hansestadt;1
+3;1004;Neumünster, Stadt;1
+4;1051;Dithmarschen;2
+5;1053;Herzogtum Lauenburg;2
+6;1054;Nordfriesland;2
+7;1055;Ostholstein;5
+8;1056;Pinneberg;2
+9;1057;Plön;2
+10;1058;Rendsburg-Eckernförde;6
+11;1059;Schleswig-Flensburg;2
+12;1060;Segeberg;2
+13;1061;Steinburg;2
+14;1062;Stormarn;6
+15;2000;Hamburg, Freie und Hansestadt;4
+16;3101;Braunschweig, Stadt;0
+17;3102;Salzgitter, Stadt;2
+18;3103;Wolfsburg, Stadt;7
+19;3151;Gifhorn;2
+20;3153;Goslar;5
+21;3154;Helmstedt;5
+22;3155;Northeim;2
+23;3157;Peine;2
+24;3158;Wolfenbüttel;2
+25;3159;Göttingen;0
+26;3241;Region Hannover;2
+27;3251;Diepholz;6
+28;3252;Hameln-Pyrmont;5
+29;3254;Hildesheim;2
+30;3255;Holzminden;2
+31;3256;Nienburg (Weser);2
+32;3257;Schaumburg;2
+33;3351;Celle;2
+34;3352;Cuxhaven;2
+35;3353;Harburg;6
+36;3354;Lüchow-Dannenberg;5
+37;3355;Lüneburg;2
+38;3356;Osterholz;6
+39;3357;Rotenburg (Wümme);6
+40;3358;Heidekreis;2
+41;3359;Stade;2
+42;3360;Uelzen;5
+43;3361;Verden;2
+44;3401;Delmenhorst, Stadt;1
+45;3402;Emden, Stadt;2
+46;3403;Oldenburg (Oldenburg), Stadt;1
+47;3404;Osnabrück, Stadt;1
+48;3405;Wilhelmshaven, Stadt;1
+49;3451;Ammerland;6
+50;3452;Aurich;2
+51;3453;Cloppenburg;3
+52;3454;Emsland;3
+53;3455;Friesland;2
+54;3456;Grafschaft Bentheim;6
+55;3457;Leer;2
+56;3458;Oldenburg;6
+57;3459;Osnabrück;6
+58;3460;Vechta;3
+59;3461;Wesermarsch;2
+60;3462;Wittmund;2
+61;4011;Bremen, Stadt;1
+62;4012;Bremerhaven, Stadt;1
+63;5111;Düsseldorf, Stadt;4
+64;5112;Duisburg, Stadt;1
+65;5113;Essen, Stadt;1
+66;5114;Krefeld, Stadt;1
+67;5116;Mönchengladbach, Stadt;1
+68;5117;Mülheim an der Ruhr, Stadt;1
+69;5119;Oberhausen, Stadt;1
+70;5120;Remscheid, Stadt;1
+71;5122;Solingen, Klingenstadt;1
+72;5124;Wuppertal, Stadt;1
+73;5154;Kleve;2
+74;5158;Mettmann;2
+75;5162;Rhein-Kreis Neuss;2
+76;5166;Viersen;2
+77;5170;Wesel;2
+78;5314;Bonn, Stadt;4
+79;5315;Köln, Stadt;4
+80;5316;Leverkusen, Stadt;4
+81;5334;Städteregion Aachen;1
+82;5358;Düren;2
+83;5362;Rhein-Erft-Kreis;2
+84;5366;Euskirchen;2
+85;5370;Heinsberg;2
+86;5374;Oberbergischer Kreis;2
+87;5378;Rheinisch-Bergischer Kreis;2
+88;5382;Rhein-Sieg-Kreis;2
+89;5512;Bottrop, Stadt;1
+90;5513;Gelsenkirchen, Stadt;1
+91;5515;Münster, Stadt;0
+92;5554;Borken;3
+93;5558;Coesfeld;6
+94;5562;Recklinghausen;1
+95;5566;Steinfurt;6
+96;5570;Warendorf;2
+97;5711;Bielefeld, Stadt;1
+98;5754;Gütersloh;6
+99;5758;Herford;2
+100;5762;Höxter;6
+101;5766;Lippe;2
+102;5770;Minden-Lübbecke;2
+103;5774;Paderborn;3
+104;5911;Bochum, Stadt;1
+105;5913;Dortmund, Stadt;1
+106;5914;Hagen, Stadt der FernUniversität;1
+107;5915;Hamm, Stadt;1
+108;5916;Herne, Stadt;1
+109;5954;Ennepe-Ruhr-Kreis;2
+110;5958;Hochsauerlandkreis;6
+111;5962;Märkischer Kreis;2
+112;5966;Olpe;6
+113;5970;Siegen-Wittgenstein;2
+114;5974;Soest;2
+115;5978;Unna;2
+116;6411;Darmstadt, Wissenschaftsstadt;0
+117;6412;Frankfurt am Main, Stadt;4
+118;6413;Offenbach am Main, Stadt;4
+119;6414;Wiesbaden, Landeshauptstadt;4
+120;6431;Bergstraße;6
+121;6432;Darmstadt-Dieburg;6
+122;6433;Groß-Gerau;3
+123;6434;Hochtaunuskreis;3
+124;6435;Main-Kinzig-Kreis;6
+125;6436;Main-Taunus-Kreis;3
+126;6437;Odenwaldkreis;2
+127;6438;Offenbach;3
+128;6439;Rheingau-Taunus-Kreis;6
+129;6440;Wetteraukreis;6
+130;6531;Gießen;3
+131;6532;Lahn-Dill-Kreis;2
+132;6533;Limburg-Weilburg;6
+133;6534;Marburg-Biedenkopf;3
+134;6535;Vogelsbergkreis;6
+135;6611;Kassel, documenta-Stadt;1
+136;6631;Fulda;6
+137;6632;Hersfeld-Rotenburg;6
+138;6633;Kassel;6
+139;6634;Schwalm-Eder-Kreis;6
+140;6635;Waldeck-Frankenberg;6
+141;6636;Werra-Meißner-Kreis;2
+142;7111;Koblenz, kreisfreie Stadt;0
+143;7131;Ahrweiler;6
+144;7132;Altenkirchen (Westerwald);2
+145;7133;Bad Kreuznach;2
+146;7134;Birkenfeld;5
+147;7135;Cochem-Zell;6
+148;7137;Mayen-Koblenz;6
+149;7138;Neuwied;2
+150;7140;Rhein-Hunsrück-Kreis;6
+151;7141;Rhein-Lahn-Kreis;6
+152;7143;Westerwaldkreis;6
+153;7211;Trier, kreisfreie Stadt;0
+154;7231;Bernkastel-Wittlich;6
+155;7232;Eifelkreis Bitburg-Prüm;6
+156;7233;Vulkaneifel;2
+157;7235;Trier-Saarburg;6
+158;7311;Frankenthal (Pfalz), kreisfreie Stadt;1
+159;7312;Kaiserslautern, kreisfreie Stadt;1
+160;7313;Landau in der Pfalz, kreisfreie Stadt;0
+161;7314;Ludwigshafen am Rhein, kreisfreie Stadt;4
+162;7315;Mainz, kreisfreie Stadt;0
+163;7316;Neustadt an der Weinstraße, kreisfreie Stadt;2
+164;7317;Pirmasens, kreisfreie Stadt;1
+165;7318;Speyer, kreisfreie Stadt;0
+166;7319;Worms, kreisfreie Stadt;1
+167;7320;Zweibrücken, kreisfreie Stadt;2
+168;7331;Alzey-Worms;6
+169;7332;Bad Dürkheim;2
+170;7333;Donnersbergkreis;6
+171;7334;Germersheim;6
+172;7335;Kaiserslautern;2
+173;7336;Kusel;6
+174;7337;Südliche Weinstraße;6
+175;7338;Rhein-Pfalz-Kreis;6
+176;7339;Mainz-Bingen;3
+177;7340;Südwestpfalz;2
+178;8111;Stuttgart, Stadtkreis;4
+179;8115;Böblingen;3
+180;8116;Esslingen;6
+181;8117;Göppingen;6
+182;8118;Ludwigsburg;3
+183;8119;Rems-Murr-Kreis;6
+184;8121;Heilbronn, Stadtkreis;0
+185;8125;Heilbronn;3
+186;8126;Hohenlohekreis;3
+187;8127;Schwäbisch Hall;3
+188;8128;Main-Tauber-Kreis;6
+189;8135;Heidenheim;6
+190;8136;Ostalbkreis;3
+191;8211;Baden-Baden, Stadtkreis;6
+192;8212;Karlsruhe, Stadtkreis;0
+193;8215;Karlsruhe;6
+194;8216;Rastatt;3
+195;8221;Heidelberg, Stadtkreis;0
+196;8222;Mannheim, Stadtkreis;0
+197;8225;Neckar-Odenwald-Kreis;6
+198;8226;Rhein-Neckar-Kreis;6
+199;8231;Pforzheim, Stadtkreis;1
+200;8235;Calw;6
+201;8236;Enzkreis;3
+202;8237;Freudenstadt;6
+203;8311;Freiburg im Breisgau, Stadtkreis;0
+204;8315;Breisgau-Hochschwarzwald;6
+205;8316;Emmendingen;6
+206;8317;Ortenaukreis;6
+207;8325;Rottweil;3
+208;8326;Schwarzwald-Baar-Kreis;6
+209;8327;Tuttlingen;3
+210;8335;Konstanz;3
+211;8336;Lörrach;6
+212;8337;Waldshut;6
+213;8415;Reutlingen;6
+214;8416;Tübingen;3
+215;8417;Zollernalbkreis;6
+216;8421;Ulm, Stadtkreis;0
+217;8425;Alb-Donau-Kreis;3
+218;8426;Biberach;3
+219;8435;Bodenseekreis;3
+220;8436;Ravensburg;3
+221;8437;Sigmaringen;6
+222;9161;Ingolstadt;7
+223;9162;München, Landeshauptstadt;4
+224;9163;Rosenheim;0
+225;9171;Altötting;3
+226;9172;Berchtesgadener Land;6
+227;9173;Bad Tölz-Wolfratshausen;6
+228;9174;Dachau;3
+229;9175;Ebersberg;3
+230;9176;Eichstätt;3
+231;9177;Erding;3
+232;9178;Freising;3
+233;9179;Fürstenfeldbruck;6
+234;9180;Garmisch-Partenkirchen;6
+235;9181;Landsberg am Lech;6
+236;9182;Miesbach;6
+237;9183;Mühldorf a.Inn;3
+238;9184;München;7
+239;9185;Neuburg-Schrobenhausen;3
+240;9186;Pfaffenhofen a.d.Ilm;3
+241;9187;Rosenheim;6
+242;9188;Starnberg;6
+243;9189;Traunstein;6
+244;9190;Weilheim-Schongau;3
+245;9261;Landshut;0
+246;9262;Passau;0
+247;9263;Straubing;0
+248;9271;Deggendorf;6
+249;9272;Freyung-Grafenau;6
+250;9273;Kelheim;3
+251;9274;Landshut;3
+252;9275;Passau;6
+253;9276;Regen;6
+254;9277;Rottal-Inn;6
+255;9278;Straubing-Bogen;6
+256;9279;Dingolfing-Landau;3
+257;9361;Amberg;0
+258;9362;Regensburg;0
+259;9363;Weiden i.d.OPf.;0
+260;9371;Amberg-Sulzbach;6
+261;9372;Cham;6
+262;9373;Neumarkt i.d.OPf.;3
+263;9374;Neustadt a.d.Waldnaab;6
+264;9375;Regensburg;3
+265;9376;Schwandorf;6
+266;9377;Tirschenreuth;6
+267;9461;Bamberg;0
+268;9462;Bayreuth;0
+269;9463;Coburg;0
+270;9464;Hof;0
+271;9471;Bamberg;3
+272;9472;Bayreuth;6
+273;9473;Coburg;6
+274;9474;Forchheim;3
+275;9475;Hof;6
+276;9476;Kronach;2
+277;9477;Kulmbach;6
+278;9478;Lichtenfels;6
+279;9479;Wunsiedel i.Fichtelgebirge;2
+280;9561;Ansbach;0
+281;9562;Erlangen;0
+282;9563;Fürth;0
+283;9564;Nürnberg;4
+284;9565;Schwabach;6
+285;9571;Ansbach;3
+286;9572;Erlangen-Höchstadt;3
+287;9573;Fürth;6
+288;9574;Nürnberger Land;6
+289;9575;Neustadt a.d.Aisch-Bad Windsheim;6
+290;9576;Roth;6
+291;9577;Weißenburg-Gunzenhausen;6
+292;9661;Aschaffenburg;0
+293;9662;Schweinfurt;0
+294;9663;Würzburg;0
+295;9671;Aschaffenburg;3
+296;9672;Bad Kissingen;6
+297;9673;Rhön-Grabfeld;6
+298;9674;Haßberge;6
+299;9675;Kitzingen;3
+300;9676;Miltenberg;6
+301;9677;Main-Spessart;6
+302;9678;Schweinfurt;6
+303;9679;Würzburg;3
+304;9761;Augsburg;0
+305;9762;Kaufbeuren;0
+306;9763;Kempten (Allgäu);0
+307;9764;Memmingen;0
+308;9771;Aichach-Friedberg;3
+309;9772;Augsburg;3
+310;9773;Dillingen a.d.Donau;3
+311;9774;Günzburg;3
+312;9775;Neu-Ulm;3
+313;9776;Lindau (Bodensee);6
+314;9777;Ostallgäu;6
+315;9778;Unterallgäu;3
+316;9779;Donau-Ries;3
+317;9780;Oberallgäu;6
+318;10041;Regionalverband Saarbrücken;1
+319;10042;Merzig-Wadern;2
+320;10043;Neunkirchen;2
+321;10044;Saarlouis;2
+322;10045;Saarpfalz-Kreis;5
+323;10046;St. Wendel;2
+324;11000;Berlin, Stadt;4
+325;12051;Brandenburg an der Havel, Stadt;1
+326;12052;Cottbus, Stadt;1
+327;12053;Frankfurt (Oder), Stadt;1
+328;12054;Potsdam, Stadt;1
+329;12060;Barnim;2
+330;12061;Dahme-Spreewald;6
+331;12062;Elbe-Elster;5
+332;12063;Havelland;2
+333;12064;Märkisch-Oderland;2
+334;12065;Oberhavel;2
+335;12066;Oberspreewald-Lausitz;5
+336;12067;Oder-Spree;5
+337;12068;Ostprignitz-Ruppin;5
+338;12069;Potsdam-Mittelmark;2
+339;12070;Prignitz;5
+340;12071;Spree-Neiße;5
+341;12072;Teltow-Fläming;6
+342;12073;Uckermark;5
+343;13003;Rostock;1
+344;13004;Schwerin;1
+345;13071;Mecklenburgische Seenplatte;5
+346;13072;Landkreis Rostock;2
+347;13073;Vorpommern-Rügen;5
+348;13074;Nordwestmecklenburg;2
+349;13075;Vorpommern-Greifswald;5
+350;13076;Ludwigslust-Parchim;2
+351;14511;Chemnitz, Stadt;1
+352;14521;Erzgebirgskreis;5
+353;14522;Mittelsachsen;2
+354;14523;Vogtlandkreis;5
+355;14524;Zwickau;5
+356;14612;Dresden, Stadt;0
+357;14625;Bautzen;5
+358;14626;Görlitz;5
+359;14627;Meißen;2
+360;14628;Sächsische Schweiz-Osterzgebirge;2
+361;14713;Leipzig, Stadt;0
+362;14729;Leipzig;2
+363;14730;Nordsachsen;5
+364;15001;Dessau-Roßlau, Stadt;5
+365;15002;Halle (Saale), Stadt;1
+366;15003;Magdeburg, Landeshauptstadt;1
+367;15081;Altmarkkreis Salzwedel;5
+368;15082;Anhalt-Bitterfeld;5
+369;15083;Börde;2
+370;15084;Burgenlandkreis;5
+371;15085;Harz;5
+372;15086;Jerichower Land;5
+373;15087;Mansfeld-Südharz;5
+374;15088;Saalekreis;2
+375;15089;Salzlandkreis;5
+376;15090;Stendal;5
+377;15091;Wittenberg;5
+378;16051;Erfurt, Stadt;1
+379;16052;Gera, Stadt;5
+380;16053;Jena, Stadt;0
+381;16054;Suhl, Stadt;5
+382;16055;Weimar, Stadt;1
+383;16056;Eisenach, Stadt;5
+384;16061;Eichsfeld;2
+385;16062;Nordhausen;5
+386;16063;Wartburgkreis;2
+387;16064;Unstrut-Hainich-Kreis;5
+388;16065;Kyffhäuserkreis;5
+389;16066;Schmalkalden-Meiningen;5
+390;16067;Gotha;2
+391;16068;Sömmerda;5
+392;16069;Hildburghausen;6
+393;16070;Ilm-Kreis;2
+394;16071;Weimarer Land;6
+395;16072;Sonneberg;5
+396;16073;Saalfeld-Rudolstadt;5
+397;16074;Saale-Holzland-Kreis;5
+398;16075;Saale-Orla-Kreis;2
+399;16076;Greiz;5
+400;16077;Altenburger Land;5
