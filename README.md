@@ -7,7 +7,7 @@ Ziel war es, ein Modell zur Vorhersage von COVID-19 Erkrankungen auf kommunaler 
 Zur Modellierung wurden diverse Modelle der statistischen Zeitreihenanalyse und des maschinellen Lernens getestet. Grundlage für die Vorhersage war die Anzahl gemeldeter Neuinfektionen, täglich publiziert durch das Robert Koch-Institut. Ergänzend wurden die demographischen und sozioökonomischen Besonderheiten der 401 Kreise in Deutschland berücksichtigt. Ein Rekurrentes Neuronales Netz (RNN) mit Long short-term memory (LSTM) wurde für die Implementierung ausgewählt.
 
 
-Die Ergebnisse sind als Webanwendung unter http://www.telegroum.com/ veröffentlicht.
+Die Ergebnisse sind als Webanwendung unter https://www.covid-prognosen.de/ veröffentlicht.
 
 
 
