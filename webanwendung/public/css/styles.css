@@ -1,0 +1,161 @@
+body {
+  width: 100%;
+  font-family: "Hind Madurai", sans-serif;
+}
+table {
+  font-family: "Hind Madurai", sans-serif;
+  font-size: 14px;
+}
+.prognose,
+.prognose-dates {
+  padding-right: 7px;
+}
+#map {
+  width: 100vw;
+  height: 100vh;
+}
+#closed,
+#opened {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100vh;
+  background-color: #343a40;
+}
+#closed {
+  display: flex;
+  width: 70px;
+  align-items: center;
+  z-index: 1;
+}
+#opened {
+  display: none;
+  width: 60vw;
+}
+#openArrow {
+  height: 32px;
+  width: 100%;
+  padding: 0;
+}
+.btn-holder {
+  display: flex;
+  width: 70px;
+  align-items: center;
+}
+#closeArrow {
+  width: 70px;
+}
+.info-holder {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  padding: 0 70px 0 20px;
+  overflow-y: scroll;
+}
+.fa-white {
+  color: #fff;
+}
+#impressum {
+  margin-top: auto;
+  margin-bottom: 25px;
+  display: flex;
+  align-items: center;
+}
+h1,
+h2,
+h3,
+h6 {
+  font-family: "Montserrat", sans-serif;
+}
+h1 {
+  font-weight: 700;
+  margin-bottom: 50px;
+}
+h3 {
+  margin-bottom: 0;
+}
+.info-holder p {
+  font-size: 16px;
+}
+#impressum p {
+  font-size: 12px;
+}
+#impressum-icons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0;
+  position: absolute;
+  width: 100%;
+  bottom: 15px;
+  right: 0;
+  list-style-type: none;
+}
+#impressum-icons li {
+  margin-top: 10px;
+  height: 32px;
+}
+.mapboxgl-ctrl-top-left {
+  top: 10px;
+  left: 20px;
+}
+#guidance {
+  display: flex;
+  position: absolute;
+  bottom: 15px;
+  left: 20px;
+  color: #fff;
+}
+.mapboxgl-popup-content {
+  display: flex;
+  flex-direction: column;
+  border-radius: 4px;
+}
+.kreis-name {
+  margin-bottom: 10px;
+}
+.kreis-info {
+  display: flex;
+  justify-content: space-between;
+}
+td {
+  text-align: center;
+}
+.cases {
+  font-style: italic;
+}
+.kreis-spacer {
+  width: 30px;
+}
+.mapboxgl-popup-close-button:focus {
+  outline: none;
+}
+.btn:focus {
+  outline: none;
+  box-shadow: none;
+}
+.mapboxgl-ctrl-bottom-left,
+.mapboxgl-ctrl-bottom-right {
+  display: none;
+}
+.municipality-name {
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.municipality-name h3 {
+  display: inline;
+}
+@media (max-width: 700px) {
+  #opened {
+    width: 100vw;
+  }
+  .info-holder {
+    hyphens: auto;
+  }
+  .mapboxgl-ctrl-top-left {
+    z-index: 0;
+  }
+}
