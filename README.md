@@ -56,4 +56,4 @@ Die Ergebnisse sind als Webanwendung unter https://www.covid-prognosen.de/ verö
 
 ## Verantwortlich
 
-Amer Goli & Niklas Tscheuschner
+Niklas Tscheuschner
